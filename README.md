@@ -54,7 +54,7 @@ To install the Currency Converter Extension, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Bhaswanth67/currency-converter-extension.git
+   git clone https://github.com/Charan-Repala/currency-converter.git
    cd currency-converter-extension
    ```
 
